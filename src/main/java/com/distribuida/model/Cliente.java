@@ -69,7 +69,7 @@ public class Cliente {
         return nombre;
     }
 
-    //Void sirve para no retornar
+    //Void sirve para no retornarew
     public void setNombre(String nombre) {
         this.nombre = nombre;
     }
